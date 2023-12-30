@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(224, 132, 13);
+}
+.edit{
+    margin: 0 auto; 
+    margin-top: 100px;
+    width: 700px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+p{
+    color: rgba(139, 212, 241, 0.471);
+    font-size: 25px;
+}
+h2{
+    color: blueviolet;
+}
+label{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(131, 131, 236)
+}

@@ -1,0 +1,13 @@
+.center {
+    padding: 70px 0;
+    /* border: 3px solid rgb(235, 243, 235); */
+    text-align: center;
+    align-items: center;
+}
+
+body{
+    background-color:aliceblue
+}
+span{
+    color: darkred;
+}
